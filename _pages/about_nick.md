@@ -1,0 +1,3 @@
+Nick McCormick is a talented software engineer and AI enthusiast. He has deep experience with building robust software systems and has contributed to several open-source projects. Nick specializes in backend development and is particularly interested in the practical applications of AI in everyday software.
+
+Outside of coding, Nick enjoys outdoor activities and is always eager to learn new technologies. He collaborates with Zach on various AI projects, bringing a pragmatic engineering perspective to complement Zach's AI expertise.
