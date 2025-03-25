@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: My collaborators and I have developed quite a bit of novel technology that improves accuracy for RAG applications. We're also big believers in open-source software, so we open-source a lot of the core RAG tech we develop. You can find our main open-source repos below.
 nav: true
 nav_order: 4
 ---
