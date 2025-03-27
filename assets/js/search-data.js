@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-rag-chat",
+        },{id: "post-why-chat-and-rag-don-39-t-mix",
         
-          title: "Rag Chat",
+          title: "Why chat and RAG don&#39;t mix",
         
         description: "",
         section: "Posts",
