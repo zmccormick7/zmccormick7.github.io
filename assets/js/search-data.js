@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/rag-chat/";
           
         },
+      },{id: "post-contextual-vs-non-contextual-llm-tasks",
+        
+          title: "Contextual vs. non-contextual LLM tasks",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/contextual-tasks/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
